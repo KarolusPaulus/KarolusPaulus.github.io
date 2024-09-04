@@ -6,4 +6,4 @@ Hello!
 
 - **Test**: HELLOOOOOO????
 
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+![Dog close-up](gif/dog.gif)
