@@ -1,6 +1,6 @@
 # **SNIFF TEST**
 
 ![Dog close-up](gif/dog.gif)
-## Good vibes?
-## *Bad vibes?*
-## Only the dog can tell
+## *Conducting vibe check...* :thinking:
+> [!WARNING]
+> Please stay still to avoid data disruption.
