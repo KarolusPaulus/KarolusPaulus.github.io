@@ -7,6 +7,4 @@
 
 @KarolusPaulus :+1: Best of luck, buddy! :dog:
 
-
-
-This site was built using [GitHub Pages](https://pages.github.com/).
+[^1]: This site was built using [GitHub Pages](https://pages.github.com/).
