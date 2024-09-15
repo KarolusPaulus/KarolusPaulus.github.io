@@ -5,7 +5,7 @@
 > [!WARNING]
 > Please stay still to avoid **data disruption.**
 
-@KarolusPaulus :+1: Best of luck, buddy! :dog:
+### Best of luck, buddy! :dog:
 
 [Click here to pass vide check!](happydog.md)
 
